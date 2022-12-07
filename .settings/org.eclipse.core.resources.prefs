@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vn/banhang/controller/BlogController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/CheckOutController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/ContactController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/HeaderController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/HomeController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/LoginController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/SearchController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/ShopDetailsController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/ShopGridController.java=UTF-8
+encoding//src/main/java/vn/banhang/controller/ShopingCartController.java=UTF-8
+encoding//src/main/java/vn/banhang/dao/LoaiSanPhamDAO.java=UTF-8
+encoding//src/main/java/vn/banhang/dao/LoginDAO.java=UTF-8
+encoding//src/main/java/vn/banhang/dao/SanPhamDAO.java=UTF-8
